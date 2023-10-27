@@ -1,5 +1,5 @@
 import java.util.*;
-class Pattern_assignment_day2_q1
+class Pattern
 {
     public static void main(String args[]) 
     {
